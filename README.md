@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shifu</h1>
-<h3 align="center">some random german who like programming</h3>
+<h3 align="center">some random who like doing random stuff in the internet</h3>
 
 
 <h3 align="left">Connect with me:</h3>
